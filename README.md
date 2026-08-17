@@ -23,7 +23,7 @@
 
 A **bold and energetic gym website** designed for fitness centers, gyms, and personal trainers. Features a dark theme with vibrant accents, training program showcases, trainer profiles, membership pricing, and workout schedules.
 
-Built with **pure vanilla technologies** â€” no frameworks, no libraries, just clean code.
+Built with **pure vanilla technologies** â€" no frameworks, no libraries, just clean code.
 
 ---
 
@@ -66,10 +66,10 @@ start index.html
 
 ```
 Gym-Website/
-â”œâ”€â”€ index.html      # Main page
-â”œâ”€â”€ style.css       # Stylesheet
-â”œâ”€â”€ script.js       # JavaScript logic
-â””â”€â”€ README.md
+â"œâ"€â"€ index.html      # Main page
+â"œâ"€â"€ style.css       # Stylesheet
+â"œâ"€â"€ script.js       # JavaScript logic
+â""â"€â"€ README.md
 ```
 
 ---
