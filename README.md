@@ -2,7 +2,7 @@
 
 # Gym Website
 
-**A bold, dark-themed gym & fitness website with training programs, trainer profiles, pricing plans & smooth animations. Built with pure HTML, CSS & JavaScript.**
+**A bold, dark-themed gym and fitness website with training programs, trainer profiles, pricing plans and smooth animations. Built with pure HTML, CSS and JavaScript.**
 
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://gym-website.vercel.app)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -23,7 +23,7 @@
 
 A **bold and energetic gym website** designed for fitness centers, gyms, and personal trainers. Features a dark theme with vibrant accents, training program showcases, trainer profiles, membership pricing, and workout schedules.
 
-Built with **pure vanilla technologies** â€" no frameworks, no libraries, just clean code.
+Built with **pure vanilla technologies** -- no frameworks, no libraries, just clean code.
 
 ---
 
@@ -32,20 +32,20 @@ Built with **pure vanilla technologies** â€" no frameworks, no libraries, jus
 | Feature | Description |
 |---------|-------------|
 | Hero Section | Bold motivational hero with CTA |
-| Training Programs | Workout categories & programs |
+| Training Programs | Workout categories and programs |
 | Trainer Profiles | Meet the trainers section |
 | Pricing Plans | Membership tiers with pricing |
 | Schedule | Weekly workout timetable |
 | Responsive | Works on all screen sizes |
 | Dark Theme | Bold fitness-inspired design |
-| Smooth Animations | CSS transitions & scroll effects |
+| Smooth Animations | CSS transitions and scroll effects |
 
 ---
 
 ## Tech Stack
 
 ```
-HTML5  -->  Page Structure & Sections
+HTML5  -->  Page Structure and Sections
 CSS3   -->  Dark Theme, Flexbox/Grid, Animations
 JS     -->  Navigation Toggle, Smooth Scroll
 ```
@@ -66,10 +66,10 @@ start index.html
 
 ```
 Gym-Website/
-â"œâ"€â"€ index.html      # Main page
-â"œâ"€â"€ style.css       # Stylesheet
-â"œâ"€â"€ script.js       # JavaScript logic
-â""â"€â"€ README.md
+  index.html      # Main page
+  style.css       # Stylesheet
+  script.js       # JavaScript logic
+  README.md
 ```
 
 ---
