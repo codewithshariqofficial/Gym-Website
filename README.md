@@ -1,6 +1,6 @@
 <div align="center">
 
-# ðŸ’ª Gym Website
+# Gym Website
 
 **A bold, dark-themed gym & fitness website with training programs, trainer profiles, pricing plans & smooth animations. Built with pure HTML, CSS & JavaScript.**
 
@@ -13,13 +13,13 @@
 
 ---
 
-## ðŸ“Œ Topics
+## Topics
 
-`html` `css` `javascript` `gym-website` `fitness` `responsive-design` `front-end` `web-development` `dark-theme` `landing-page` `static-site` `vanilla-js` `css-animations` `health-fitness`
+`html` `css` `javascript` `gym-website` `fitness` `dark-theme` `responsive-design` `front-end` `landing-page` `vanilla-js`
 
 ---
 
-## ðŸ“– About
+## About
 
 A **bold and energetic gym website** designed for fitness centers, gyms, and personal trainers. Features a dark theme with vibrant accents, training program showcases, trainer profiles, membership pricing, and workout schedules.
 
@@ -27,32 +27,32 @@ Built with **pure vanilla technologies** â€” no frameworks, no libraries, j
 
 ---
 
-## âœ¨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
-| ðŸ’ª Hero Section | Bold motivational hero with CTA |
-| ðŸ‹ï¸ Training Programs | Workout categories & programs |
-| ðŸ‘¥ Trainer Profiles | Meet the trainers section |
-| ðŸ’° Pricing Plans | Membership tiers with pricing |
-| ðŸ“… Schedule | Weekly workout timetable |
-| ðŸ“± Responsive | Works on all screen sizes |
-| ðŸŽ¨ Dark Theme | Bold fitness-inspired design |
-| âš¡ Smooth Animations | CSS transitions & scroll effects |
+| Hero Section | Bold motivational hero with CTA |
+| Training Programs | Workout categories & programs |
+| Trainer Profiles | Meet the trainers section |
+| Pricing Plans | Membership tiers with pricing |
+| Schedule | Weekly workout timetable |
+| Responsive | Works on all screen sizes |
+| Dark Theme | Bold fitness-inspired design |
+| Smooth Animations | CSS transitions & scroll effects |
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 ```
-HTML5 âžœ Page Structure & Sections
-CSS3  âžœ Dark Theme, Flexbox/Grid, Animations
-JS    âžœ Navigation Toggle, Smooth Scroll
+HTML5  -->  Page Structure & Sections
+CSS3   -->  Dark Theme, Flexbox/Grid, Animations
+JS     -->  Navigation Toggle, Smooth Scroll
 ```
 
 ---
 
-## ðŸš€ Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/codewithshariqofficial/Gym-Website.git
@@ -62,7 +62,7 @@ start index.html
 
 ---
 
-## ðŸ“‚ Project Structure
+## Project Structure
 
 ```
 Gym-Website/
@@ -74,7 +74,7 @@ Gym-Website/
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Author
+## Author
 
 **Code With Shariq Official**
 
@@ -82,5 +82,3 @@ Gym-Website/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithshariq1/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/codewithshariq1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-shariq-shahid.vercel.app/)
-
----
